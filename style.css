@@ -1,0 +1,18 @@
+#TEST{
+    background: linear-gradient(rgb(67, 190, 231)  0% , rgb(34, 82, 185) 100%);
+}
+h3{
+    font-weight: bold;
+}
+
+#scoore{
+    float: left;
+    padding-left: 25px;
+    font-size: 25px;
+}
+
+#timme{
+    float: right;
+    padding-right: 40px;
+    font-size: 25px;
+}
